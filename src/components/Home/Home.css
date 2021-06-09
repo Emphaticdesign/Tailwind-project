@@ -1,0 +1,11 @@
+.Home {
+    height: 100vh;
+    background: url('../../Picture/showcase.jpg') no-repeat center/cover;
+    height: 800px;
+  }
+  
+  .Home .overlay {
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 800px;
+  }
